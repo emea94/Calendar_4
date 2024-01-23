@@ -16,7 +16,6 @@ public class Calendar {
         System.out.println("November");
         System.out.println("Dezember");
         System.out.println("Die von neueFische sind gemein");
-
         System.out.println("ziemlich kompliziert");
 
 
