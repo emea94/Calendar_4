@@ -21,7 +21,7 @@ public class Calendar {
                 } else if (l > 6) {
                     l -= 7;
                 }
-                System.out.print(days[l] + ", ");
+                System.out.print((j - monthe.numberNeedToAddForCorrectStartDay + 1) + ". "+days[l] + ", ");
                 if (l > 0 && l % 6 == 0){
                     System.out.println();
                 }
